@@ -1,0 +1,3 @@
+object casa {
+  const cosas = []
+}
